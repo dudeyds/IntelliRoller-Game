@@ -1,0 +1,1865 @@
+fileFormatVersion: 2
+guid: c16b5565591ea424a9617e1e981410a9
+timeCreated: 1524670436
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e010000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a0200009b0200009c0200009d0200009e0200009f020000a0020000a1020000a2020000a3020000a4020000a5020000a6020000a7020000a8020000a9020000aa020000ab020000ac020000ad020000ae020000af020000b0020000b1020000b2020000b3020000b4020000b5020000b6020000b7020000b8020000b9020000ba020000bb020000bc020000bd020000be020000bf020000c0020000c1020000c2020000c3020000c4020000c5020000c6020000c7020000c8020000c9020000ca020000cb020000cc020000cd020000ce020000cf020000d0020000d1020000d2020000d3020000d4020000d5020000d6020000d7020000d8020000d9020000da020000db020000dc020000dd020000de020000df020000e0020000e1020000e2020000e3020000e4020000e5020000e6020000e7020000e8020000e9020000ea020000eb020000ec020000ed020000ee020000ef020000f0020000f1020000f2020000f3020000f4020000f5020000f6020000f7020000f8020000f9020000fa020000fb020000fc020000fd020000fe020000ff020000000300000103000002030000030300000403000005030000060300000703000008030000090300000a0300000b0300000c0300000d0300000e0300000f030000100300001103000012030000130300001403000015030000160300001703000018030000190300001a0300001b0300001c0300001d0300001e0300001f030000200300002103000022030000230300002403000025030000260300002703000028030000290300002a0300002b0300002c0300002d0300002e0300002f030000300300003103000032030000330300003403000035030000360300003703000038030000390300003a0300003b0300003c0300003d0300003e0300003f030000400300004103000042030000430300004403000045030000460300004703000048030000490300004a0300004b0300004c0300004d0300004e0300004f030000500300005103000052030000530300005403000055030000560300005703000058030000590300005a0300005b0300005c0300005d0300005e0300005f030000600300006103000062030000630300006403000065030000660300006703000068030000690300006a0300006b0300006c0300006d0300006e0300006f030000700300007103000072030000730300007403000075030000760300007703000078030000790300007a0300007b0300007c0300007d0300007e0300007f030000800300008103000082030000830300008403000085030000860300008703000088030000890300008a0300008b0300008c0300008d0300008e0300008f030000900300009103000092030000930300009403000095030000960300009703000098030000990300009a0300009b0300009c0300009d0300009e0300009f030000a0030000a1030000a2030000a3030000a4030000a5030000a6030000a7030000a8030000a9030000aa030000ab030000ac030000ad030000ae030000af030000b0030000b1030000b2030000b3030000b4030000b5030000b6030000b7030000b8030000b9030000ba030000bb030000bc030000bd030000be030000bf030000c0030000c1030000c2030000c3030000c4030000c5030000c6030000c7030000c8030000c9030000ca030000cb030000cc030000cd030000ce030000cf030000d0030000d1030000d2030000d3030000d4030000d5030000d6030000d7030000d8030000d9030000da030000db030000dc030000dd030000de030000df030000e0030000e1030000e2030000e3030000e4030000e5030000e6030000e7030000e8030000e9030000ea030000eb030000ec030000ed030000ee030000ef030000f0030000f1030000f2030000f3030000f4030000f5030000f6030000f7030000f8030000f9030000fa030000fb030000fc030000fd030000fe030000ff030000000400000104000002040000030400000404000005040000060400000704000008040000090400000a0400000b0400000c0400000d0400000e0400000f040000100400001104000012040000130400001404000015040000160400001704000018040000190400001a0400001b0400001c0400001d0400001e0400001f040000200400002104000022040000230400002404000025040000260400002704000028040000290400002a0400002b0400002c0400002d0400002e0400002f040000300400003104000032040000330400003404000035040000360400003704000038040000390400003a0400003b0400003c0400003d0400003e0400003f040000400400004104000042040000430400004404000045040000460400004704000048040000490400004a0400004b0400004c0400004d0400004e0400004f040000500400005104000052040000530400005404000055040000560400005704000058040000590400005a0400005b0400005c0400005d0400005e0400005f040000600400006104000062040000630400006404000065040000660400006704000068040000690400006a0400006b0400006c0400006d0400006e0400006f04000070040000710400007204000073040000740400007504000076040000770400007804000079040000
+  assetHash:
+    serializedVersion: 2
+    Hash: 960396db369c08cd3581d02ab39bb9c5
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 27.754833, y: 7.0301614, z: -9.300981}
+      lookAt: {x: -18.6146, y: -6.31312, z: 13.638973}
+      up: {x: -0.22385333, y: 0.9683105, z: 0.11074506}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Basket Ring
+    100002: Basket Ring 1
+    100004: Basket Ring 10
+    100006: Basket Ring 11
+    100008: Basket Ring 12
+    100010: Basket Ring 13
+    100012: Basket Ring 14
+    100014: Basket Ring 15
+    100016: Basket Ring 16
+    100018: Basket Ring 17
+    100020: Basket Ring 18
+    100022: Basket Ring 19
+    100024: Basket Ring 2
+    100026: Basket Ring 20
+    100028: Basket Ring 21
+    100030: Basket Ring 22
+    100032: Basket Ring 23
+    100034: Basket Ring 3
+    100036: Basket Ring 4
+    100038: Basket Ring 5
+    100040: Basket Ring 6
+    100042: Basket Ring 7
+    100044: Basket Ring 8
+    100046: Basket Ring 9
+    100048: Basketball
+    100050: BASKETBALL#1
+    100052: basketball_goal
+    100054: basketball_goal 1
+    100056: Bleachers
+    100058: Bleachers 1
+    100060: Camera
+    100062: Chair
+    100064: Chair 1
+    100066: Chair 10
+    100068: Chair 11
+    100070: Chair 12
+    100072: Chair 13
+    100074: Chair 14
+    100076: Chair 15
+    100078: Chair 16
+    100080: Chair 17
+    100082: Chair 18
+    100084: Chair 19
+    100086: Chair 2
+    100088: Chair 20
+    100090: Chair 21
+    100092: Chair 22
+    100094: Chair 23
+    100096: Chair 3
+    100098: Chair 4
+    100100: Chair 5
+    100102: Chair 6
+    100104: Chair 7
+    100106: Chair 8
+    100108: Chair 9
+    100110: chair part
+    100112: chair part 1
+    100114: chair part 10
+    100116: chair part 11
+    100118: chair part 12
+    100120: chair part 13
+    100122: chair part 14
+    100124: chair part 15
+    100126: chair part 16
+    100128: chair part 17
+    100130: chair part 18
+    100132: chair part 19
+    100134: chair part 2
+    100136: chair part 20
+    100138: chair part 21
+    100140: chair part 22
+    100142: chair part 23
+    100144: Chair part 3
+    100146: chair part 3
+    100148: Chair part 3 1
+    100150: Chair part 3 10
+    100152: Chair part 3 11
+    100154: Chair part 3 12
+    100156: Chair part 3 13
+    100158: Chair part 3 14
+    100160: Chair part 3 15
+    100162: Chair part 3 16
+    100164: Chair part 3 17
+    100166: Chair part 3 18
+    100168: Chair part 3 19
+    100170: Chair part 3 2
+    100172: Chair part 3 20
+    100174: Chair part 3 21
+    100176: Chair part 3 22
+    100178: Chair part 3 23
+    100180: Chair part 3 3
+    100182: Chair part 3 4
+    100184: Chair part 3 5
+    100186: Chair part 3 6
+    100188: Chair part 3 7
+    100190: Chair part 3 8
+    100192: Chair part 3 9
+    100194: chair part 4
+    100196: chair part 4 1
+    100198: chair part 4 1 1
+    100200: chair part 4 10
+    100202: chair part 4 11
+    100204: chair part 4 12
+    100206: chair part 4 13
+    100208: chair part 4 14
+    100210: chair part 4 15
+    100212: chair part 4 16
+    100214: chair part 4 17
+    100216: chair part 4 18
+    100218: chair part 4 19
+    100220: chair part 4 2
+    100222: chair part 4 20
+    100224: chair part 4 21
+    100226: chair part 4 22
+    100228: chair part 4 23
+    100230: chair part 4 24
+    100232: chair part 4 25
+    100234: chair part 4 26
+    100236: chair part 4 27
+    100238: chair part 4 28
+    100240: chair part 4 29
+    100242: chair part 4 3
+    100244: chair part 4 30
+    100246: chair part 4 31
+    100248: chair part 4 32
+    100250: chair part 4 33
+    100252: chair part 4 34
+    100254: chair part 4 35
+    100256: chair part 4 36
+    100258: chair part 4 37
+    100260: chair part 4 38
+    100262: chair part 4 39
+    100264: chair part 4 4
+    100266: chair part 4 40
+    100268: chair part 4 41
+    100270: chair part 4 42
+    100272: chair part 4 43
+    100274: chair part 4 44
+    100276: chair part 4 45
+    100278: chair part 4 46
+    100280: chair part 4 47
+    100282: chair part 4 5
+    100284: chair part 4 6
+    100286: chair part 4 7
+    100288: chair part 4 8
+    100290: chair part 4 9
+    100292: chair part 5
+    100294: chair part 6
+    100296: chair part 7
+    100298: chair part 8
+    100300: chair part 9
+    100302: Component#1
+    100304: Component#1 1
+    100306: Component#1 10
+    100308: Component#1 11
+    100310: Component#1 2
+    100312: Component#1 3
+    100314: Component#1 4
+    100316: Component#1 5
+    100318: Component#1 6
+    100320: Component#1 7
+    100322: Component#1 8
+    100324: Component#1 9
+    100326: Component#10
+    100328: Component#10 1
+    100330: Component#12
+    100332: Component#12 1
+    100334: Component#13
+    100336: Component#13 1
+    100338: Component#13 2
+    100340: Component#13 3
+    100342: Component#13 4
+    100344: Component#13 5
+    100346: Component#13 6
+    100348: Component#13 7
+    100350: Component#14
+    100352: Component#14 1
+    100354: Component#14 2
+    100356: Component#14 3
+    100358: Component#16
+    100360: Component#16 1
+    100362: Component#18
+    100364: Component#18 1
+    100366: Component#18 2
+    100368: Component#2
+    100370: Component#2 1
+    100372: Component#2 10
+    100374: Component#2 11
+    100376: Component#2 12
+    100378: Component#2 13
+    100380: Component#2 14
+    100382: Component#2 15
+    100384: Component#2 16
+    100386: Component#2 17
+    100388: Component#2 18
+    100390: Component#2 19
+    100392: Component#2 2
+    100394: Component#2 3
+    100396: Component#2 4
+    100398: Component#2 5
+    100400: Component#2 6
+    100402: Component#2 7
+    100404: Component#2 8
+    100406: Component#2 9
+    100408: Component#3
+    100410: Component#3 1
+    100412: Component#4
+    100414: Component#4 1
+    100416: Component#5
+    100418: Component#5 1
+    100420: Component#6
+    100422: Component#6 1
+    100424: Component#6 2
+    100426: Component#6 3
+    100428: Component#6 4
+    100430: Component#6 5
+    100432: Component#6 6
+    100434: Component#6 7
+    100436: Component#7
+    100438: Component#7 1
+    100440: Component#8
+    100442: Component#8 1
+    100444: Component#9
+    100446: Component#9 1
+    100448: Component#9 2
+    100450: Component#9 3
+    100452: FCHS Flucos
+    100454: Group 1010
+    100456: Group 1027
+    100458: Group 1044
+    100460: Group 1061
+    100462: Group 1078
+    100464: Group 1095
+    100466: Group 1122
+    100468: Group 1124
+    100470: Group 1126
+    100472: Group 1128
+    100474: Group 1130
+    100476: Group 1132
+    100478: Group 1134
+    100480: Group 1136
+    100482: Group 14
+    100484: Group 16
+    100486: Group 18
+    100488: Group 20
+    100490: Group 201
+    100492: Group 203
+    100494: Group 209
+    100496: Group 211
+    100498: Group 213
+    100500: Group 215
+    100502: Group 217
+    100504: Group 219
+    100506: Group 22
+    100508: Group 221
+    100510: Group 223
+    100512: Group 225
+    100514: Group 227
+    100516: Group 252
+    100518: Group 255
+    100520: Group 257
+    100522: Group 260
+    100524: Group 262
+    100526: Group 266
+    100528: Group 267
+    100530: Group 269
+    100532: Group 273
+    100534: Group 274
+    100536: Group 276
+    100538: Group 281
+    100540: Group 295
+    100542: Group 297
+    100544: Group 304
+    100546: Group 306
+    100548: Group 308
+    100550: Group 327
+    100552: Group 329
+    100554: Group 338
+    100556: Group 340
+    100558: Group 342
+    100560: Group 349
+    100562: Group 351
+    100564: Group 359
+    100566: Group 361
+    100568: Group 363
+    100570: Group 365
+    100572: Group 367
+    100574: Group 4
+    100576: Group 546
+    100578: Group 548
+    100580: Group 554
+    100582: Group 556
+    100584: Group 558
+    100586: Group 560
+    100588: Group 562
+    100590: Group 564
+    100592: Group 566
+    100594: Group 568
+    100596: Group 570
+    100598: Group 572
+    100600: Group 597
+    100602: Group 6
+    100604: Group 600
+    100606: Group 602
+    100608: Group 605
+    100610: Group 607
+    100612: Group 611
+    100614: Group 612
+    100616: Group 614
+    100618: Group 618
+    100620: Group 619
+    100622: Group 621
+    100624: Group 626
+    100626: Group 640
+    100628: Group 642
+    100630: Group 649
+    100632: Group 651
+    100634: Group 653
+    100636: Group 672
+    100638: Group 674
+    100640: Group 683
+    100642: Group 685
+    100644: Group 687
+    100646: Group 704
+    100648: Group 721
+    100650: Group 738
+    100652: Group 755
+    100654: Group 772
+    100656: Group 789
+    100658: Group 806
+    100660: Group 823
+    100662: Group 840
+    100664: Group 857
+    100666: Group 874
+    100668: Group 891
+    100670: Group 908
+    100672: Group 925
+    100674: Group 942
+    100676: Group 959
+    100678: Group 976
+    100680: Group 993
+    100682: Group#10
+    100684: Group#10 1
+    100686: Group#10 2
+    100688: Group#10 3
+    100690: Group#10 4
+    100692: Group#10 5
+    100694: Group#10 6
+    100696: Group#10 7
+    100698: Group#39
+    100700: Group#39 1
+    100702: Group#53
+    100704: Group#57
+    100706: Group#57 1
+    100708: Group#58
+    100710: Group#58 1
+    100712: Group#58 10
+    100714: Group#58 11
+    100716: Group#58 12
+    100718: Group#58 13
+    100720: Group#58 14
+    100722: Group#58 15
+    100724: Group#58 16
+    100726: Group#58 17
+    100728: Group#58 18
+    100730: Group#58 19
+    100732: Group#58 2
+    100734: Group#58 20
+    100736: Group#58 21
+    100738: Group#58 22
+    100740: Group#58 23
+    100742: Group#58 24
+    100744: Group#58 25
+    100746: Group#58 26
+    100748: Group#58 27
+    100750: Group#58 28
+    100752: Group#58 29
+    100754: Group#58 3
+    100756: Group#58 30
+    100758: Group#58 31
+    100760: Group#58 32
+    100762: Group#58 33
+    100764: Group#58 34
+    100766: Group#58 35
+    100768: Group#58 36
+    100770: Group#58 37
+    100772: Group#58 38
+    100774: Group#58 39
+    100776: Group#58 4
+    100778: Group#58 40
+    100780: Group#58 41
+    100782: Group#58 42
+    100784: Group#58 43
+    100786: Group#58 44
+    100788: Group#58 45
+    100790: Group#58 46
+    100792: Group#58 47
+    100794: Group#58 5
+    100796: Group#58 6
+    100798: Group#58 7
+    100800: Group#58 8
+    100802: Group#58 9
+    100804: High School Basketball Court
+    100806: //RootNode
+    100808: LED Scoreboard
+    100810: LED Scoreboard 1
+    100812: pully
+    100814: pully 1
+    100816: seat
+    100818: seat 1
+    100820: seat 10
+    100822: seat 11
+    100824: seat 12
+    100826: seat 13
+    100828: seat 14
+    100830: seat 15
+    100832: seat 16
+    100834: seat 17
+    100836: seat 18
+    100838: seat 19
+    100840: seat 2
+    100842: seat 20
+    100844: seat 21
+    100846: seat 22
+    100848: seat 23
+    100850: seat 3
+    100852: seat 4
+    100854: seat 5
+    100856: seat 6
+    100858: seat 7
+    100860: seat 8
+    100862: seat 9
+    100864: ske2C
+    100866: Studio Camera
+    100868: tv_camera
+    100870: Unfolded
+    100872: Unfolded 1
+    400000: Basket Ring
+    400002: Basket Ring 1
+    400004: Basket Ring 10
+    400006: Basket Ring 11
+    400008: Basket Ring 12
+    400010: Basket Ring 13
+    400012: Basket Ring 14
+    400014: Basket Ring 15
+    400016: Basket Ring 16
+    400018: Basket Ring 17
+    400020: Basket Ring 18
+    400022: Basket Ring 19
+    400024: Basket Ring 2
+    400026: Basket Ring 20
+    400028: Basket Ring 21
+    400030: Basket Ring 22
+    400032: Basket Ring 23
+    400034: Basket Ring 3
+    400036: Basket Ring 4
+    400038: Basket Ring 5
+    400040: Basket Ring 6
+    400042: Basket Ring 7
+    400044: Basket Ring 8
+    400046: Basket Ring 9
+    400048: Basketball
+    400050: BASKETBALL#1
+    400052: basketball_goal
+    400054: basketball_goal 1
+    400056: Bleachers
+    400058: Bleachers 1
+    400060: Camera
+    400062: Chair
+    400064: Chair 1
+    400066: Chair 10
+    400068: Chair 11
+    400070: Chair 12
+    400072: Chair 13
+    400074: Chair 14
+    400076: Chair 15
+    400078: Chair 16
+    400080: Chair 17
+    400082: Chair 18
+    400084: Chair 19
+    400086: Chair 2
+    400088: Chair 20
+    400090: Chair 21
+    400092: Chair 22
+    400094: Chair 23
+    400096: Chair 3
+    400098: Chair 4
+    400100: Chair 5
+    400102: Chair 6
+    400104: Chair 7
+    400106: Chair 8
+    400108: Chair 9
+    400110: chair part
+    400112: chair part 1
+    400114: chair part 10
+    400116: chair part 11
+    400118: chair part 12
+    400120: chair part 13
+    400122: chair part 14
+    400124: chair part 15
+    400126: chair part 16
+    400128: chair part 17
+    400130: chair part 18
+    400132: chair part 19
+    400134: chair part 2
+    400136: chair part 20
+    400138: chair part 21
+    400140: chair part 22
+    400142: chair part 23
+    400144: Chair part 3
+    400146: chair part 3
+    400148: Chair part 3 1
+    400150: Chair part 3 10
+    400152: Chair part 3 11
+    400154: Chair part 3 12
+    400156: Chair part 3 13
+    400158: Chair part 3 14
+    400160: Chair part 3 15
+    400162: Chair part 3 16
+    400164: Chair part 3 17
+    400166: Chair part 3 18
+    400168: Chair part 3 19
+    400170: Chair part 3 2
+    400172: Chair part 3 20
+    400174: Chair part 3 21
+    400176: Chair part 3 22
+    400178: Chair part 3 23
+    400180: Chair part 3 3
+    400182: Chair part 3 4
+    400184: Chair part 3 5
+    400186: Chair part 3 6
+    400188: Chair part 3 7
+    400190: Chair part 3 8
+    400192: Chair part 3 9
+    400194: chair part 4
+    400196: chair part 4 1
+    400198: chair part 4 1 1
+    400200: chair part 4 10
+    400202: chair part 4 11
+    400204: chair part 4 12
+    400206: chair part 4 13
+    400208: chair part 4 14
+    400210: chair part 4 15
+    400212: chair part 4 16
+    400214: chair part 4 17
+    400216: chair part 4 18
+    400218: chair part 4 19
+    400220: chair part 4 2
+    400222: chair part 4 20
+    400224: chair part 4 21
+    400226: chair part 4 22
+    400228: chair part 4 23
+    400230: chair part 4 24
+    400232: chair part 4 25
+    400234: chair part 4 26
+    400236: chair part 4 27
+    400238: chair part 4 28
+    400240: chair part 4 29
+    400242: chair part 4 3
+    400244: chair part 4 30
+    400246: chair part 4 31
+    400248: chair part 4 32
+    400250: chair part 4 33
+    400252: chair part 4 34
+    400254: chair part 4 35
+    400256: chair part 4 36
+    400258: chair part 4 37
+    400260: chair part 4 38
+    400262: chair part 4 39
+    400264: chair part 4 4
+    400266: chair part 4 40
+    400268: chair part 4 41
+    400270: chair part 4 42
+    400272: chair part 4 43
+    400274: chair part 4 44
+    400276: chair part 4 45
+    400278: chair part 4 46
+    400280: chair part 4 47
+    400282: chair part 4 5
+    400284: chair part 4 6
+    400286: chair part 4 7
+    400288: chair part 4 8
+    400290: chair part 4 9
+    400292: chair part 5
+    400294: chair part 6
+    400296: chair part 7
+    400298: chair part 8
+    400300: chair part 9
+    400302: Component#1
+    400304: Component#1 1
+    400306: Component#1 10
+    400308: Component#1 11
+    400310: Component#1 2
+    400312: Component#1 3
+    400314: Component#1 4
+    400316: Component#1 5
+    400318: Component#1 6
+    400320: Component#1 7
+    400322: Component#1 8
+    400324: Component#1 9
+    400326: Component#10
+    400328: Component#10 1
+    400330: Component#12
+    400332: Component#12 1
+    400334: Component#13
+    400336: Component#13 1
+    400338: Component#13 2
+    400340: Component#13 3
+    400342: Component#13 4
+    400344: Component#13 5
+    400346: Component#13 6
+    400348: Component#13 7
+    400350: Component#14
+    400352: Component#14 1
+    400354: Component#14 2
+    400356: Component#14 3
+    400358: Component#16
+    400360: Component#16 1
+    400362: Component#18
+    400364: Component#18 1
+    400366: Component#18 2
+    400368: Component#2
+    400370: Component#2 1
+    400372: Component#2 10
+    400374: Component#2 11
+    400376: Component#2 12
+    400378: Component#2 13
+    400380: Component#2 14
+    400382: Component#2 15
+    400384: Component#2 16
+    400386: Component#2 17
+    400388: Component#2 18
+    400390: Component#2 19
+    400392: Component#2 2
+    400394: Component#2 3
+    400396: Component#2 4
+    400398: Component#2 5
+    400400: Component#2 6
+    400402: Component#2 7
+    400404: Component#2 8
+    400406: Component#2 9
+    400408: Component#3
+    400410: Component#3 1
+    400412: Component#4
+    400414: Component#4 1
+    400416: Component#5
+    400418: Component#5 1
+    400420: Component#6
+    400422: Component#6 1
+    400424: Component#6 2
+    400426: Component#6 3
+    400428: Component#6 4
+    400430: Component#6 5
+    400432: Component#6 6
+    400434: Component#6 7
+    400436: Component#7
+    400438: Component#7 1
+    400440: Component#8
+    400442: Component#8 1
+    400444: Component#9
+    400446: Component#9 1
+    400448: Component#9 2
+    400450: Component#9 3
+    400452: FCHS Flucos
+    400454: Group 1010
+    400456: Group 1027
+    400458: Group 1044
+    400460: Group 1061
+    400462: Group 1078
+    400464: Group 1095
+    400466: Group 1122
+    400468: Group 1124
+    400470: Group 1126
+    400472: Group 1128
+    400474: Group 1130
+    400476: Group 1132
+    400478: Group 1134
+    400480: Group 1136
+    400482: Group 14
+    400484: Group 16
+    400486: Group 18
+    400488: Group 20
+    400490: Group 201
+    400492: Group 203
+    400494: Group 209
+    400496: Group 211
+    400498: Group 213
+    400500: Group 215
+    400502: Group 217
+    400504: Group 219
+    400506: Group 22
+    400508: Group 221
+    400510: Group 223
+    400512: Group 225
+    400514: Group 227
+    400516: Group 252
+    400518: Group 255
+    400520: Group 257
+    400522: Group 260
+    400524: Group 262
+    400526: Group 266
+    400528: Group 267
+    400530: Group 269
+    400532: Group 273
+    400534: Group 274
+    400536: Group 276
+    400538: Group 281
+    400540: Group 295
+    400542: Group 297
+    400544: Group 304
+    400546: Group 306
+    400548: Group 308
+    400550: Group 327
+    400552: Group 329
+    400554: Group 338
+    400556: Group 340
+    400558: Group 342
+    400560: Group 349
+    400562: Group 351
+    400564: Group 359
+    400566: Group 361
+    400568: Group 363
+    400570: Group 365
+    400572: Group 367
+    400574: Group 4
+    400576: Group 546
+    400578: Group 548
+    400580: Group 554
+    400582: Group 556
+    400584: Group 558
+    400586: Group 560
+    400588: Group 562
+    400590: Group 564
+    400592: Group 566
+    400594: Group 568
+    400596: Group 570
+    400598: Group 572
+    400600: Group 597
+    400602: Group 6
+    400604: Group 600
+    400606: Group 602
+    400608: Group 605
+    400610: Group 607
+    400612: Group 611
+    400614: Group 612
+    400616: Group 614
+    400618: Group 618
+    400620: Group 619
+    400622: Group 621
+    400624: Group 626
+    400626: Group 640
+    400628: Group 642
+    400630: Group 649
+    400632: Group 651
+    400634: Group 653
+    400636: Group 672
+    400638: Group 674
+    400640: Group 683
+    400642: Group 685
+    400644: Group 687
+    400646: Group 704
+    400648: Group 721
+    400650: Group 738
+    400652: Group 755
+    400654: Group 772
+    400656: Group 789
+    400658: Group 806
+    400660: Group 823
+    400662: Group 840
+    400664: Group 857
+    400666: Group 874
+    400668: Group 891
+    400670: Group 908
+    400672: Group 925
+    400674: Group 942
+    400676: Group 959
+    400678: Group 976
+    400680: Group 993
+    400682: Group#10
+    400684: Group#10 1
+    400686: Group#10 2
+    400688: Group#10 3
+    400690: Group#10 4
+    400692: Group#10 5
+    400694: Group#10 6
+    400696: Group#10 7
+    400698: Group#39
+    400700: Group#39 1
+    400702: Group#53
+    400704: Group#57
+    400706: Group#57 1
+    400708: Group#58
+    400710: Group#58 1
+    400712: Group#58 10
+    400714: Group#58 11
+    400716: Group#58 12
+    400718: Group#58 13
+    400720: Group#58 14
+    400722: Group#58 15
+    400724: Group#58 16
+    400726: Group#58 17
+    400728: Group#58 18
+    400730: Group#58 19
+    400732: Group#58 2
+    400734: Group#58 20
+    400736: Group#58 21
+    400738: Group#58 22
+    400740: Group#58 23
+    400742: Group#58 24
+    400744: Group#58 25
+    400746: Group#58 26
+    400748: Group#58 27
+    400750: Group#58 28
+    400752: Group#58 29
+    400754: Group#58 3
+    400756: Group#58 30
+    400758: Group#58 31
+    400760: Group#58 32
+    400762: Group#58 33
+    400764: Group#58 34
+    400766: Group#58 35
+    400768: Group#58 36
+    400770: Group#58 37
+    400772: Group#58 38
+    400774: Group#58 39
+    400776: Group#58 4
+    400778: Group#58 40
+    400780: Group#58 41
+    400782: Group#58 42
+    400784: Group#58 43
+    400786: Group#58 44
+    400788: Group#58 45
+    400790: Group#58 46
+    400792: Group#58 47
+    400794: Group#58 5
+    400796: Group#58 6
+    400798: Group#58 7
+    400800: Group#58 8
+    400802: Group#58 9
+    400804: High School Basketball Court
+    400806: //RootNode
+    400808: LED Scoreboard
+    400810: LED Scoreboard 1
+    400812: pully
+    400814: pully 1
+    400816: seat
+    400818: seat 1
+    400820: seat 10
+    400822: seat 11
+    400824: seat 12
+    400826: seat 13
+    400828: seat 14
+    400830: seat 15
+    400832: seat 16
+    400834: seat 17
+    400836: seat 18
+    400838: seat 19
+    400840: seat 2
+    400842: seat 20
+    400844: seat 21
+    400846: seat 22
+    400848: seat 23
+    400850: seat 3
+    400852: seat 4
+    400854: seat 5
+    400856: seat 6
+    400858: seat 7
+    400860: seat 8
+    400862: seat 9
+    400864: ske2C
+    400866: Studio Camera
+    400868: tv_camera
+    400870: Unfolded
+    400872: Unfolded 1
+    2100000: _defaultMat
+    2100002: '[Wood_Floor_Light]'
+    2100004: '[Concrete_Aggregate_Smoke]'
+    2100006: '[Gray4]'
+    2100008: '[WarmGray8]'
+    2100010: '[Metal_Rough]'
+    2100012: '[Color_I16]'
+    2100014: '[0020_Red]'
+    2100016: Color_002
+    2100018: Color_005
+    2100020: SentryGuard3
+    2100022: Color_B01
+    2100024: Color_000
+    2100026: Translucent_Glass_Gray
+    2100028: Color_A01
+    2100030: '[Color_000]'
+    2100032: _1
+    2100034: '[Metal_Aluminum_Anodized]'
+    2100036: _2
+    2100038: '[Color_004]'
+    2100040: '[Color_002]'
+    2100042: '[Color_E01]'
+    2100044: basketball
+    2100046: rubber
+    2100048: seems
+    2100050: lettering
+    2100052: _LightGray_
+    2100054: _DarkGray_
+    2100056: _Charcoal_
+    2100058: Color_D05
+    2100060: _DimGray_
+    2100062: _Gray_
+    2100064: _Red Glass_
+    2100066: screen
+    2100068: Color_009
+    2300000: Basket Ring
+    2300002: Basket Ring 1
+    2300004: Basket Ring 10
+    2300006: Basket Ring 11
+    2300008: Basket Ring 12
+    2300010: Basket Ring 13
+    2300012: Basket Ring 14
+    2300014: Basket Ring 15
+    2300016: Basket Ring 16
+    2300018: Basket Ring 17
+    2300020: Basket Ring 18
+    2300022: Basket Ring 19
+    2300024: Basket Ring 2
+    2300026: Basket Ring 20
+    2300028: Basket Ring 21
+    2300030: Basket Ring 22
+    2300032: Basket Ring 23
+    2300034: Basket Ring 3
+    2300036: Basket Ring 4
+    2300038: Basket Ring 5
+    2300040: Basket Ring 6
+    2300042: Basket Ring 7
+    2300044: Basket Ring 8
+    2300046: Basket Ring 9
+    2300048: Basketball
+    2300050: Bleachers
+    2300052: Bleachers 1
+    2300054: chair part
+    2300056: chair part 1
+    2300058: chair part 10
+    2300060: chair part 11
+    2300062: chair part 12
+    2300064: chair part 13
+    2300066: chair part 14
+    2300068: chair part 15
+    2300070: chair part 16
+    2300072: chair part 17
+    2300074: chair part 18
+    2300076: chair part 19
+    2300078: chair part 2
+    2300080: chair part 20
+    2300082: chair part 21
+    2300084: chair part 22
+    2300086: chair part 23
+    2300088: Chair part 3
+    2300090: chair part 3
+    2300092: Chair part 3 1
+    2300094: Chair part 3 10
+    2300096: Chair part 3 11
+    2300098: Chair part 3 12
+    2300100: Chair part 3 13
+    2300102: Chair part 3 14
+    2300104: Chair part 3 15
+    2300106: Chair part 3 16
+    2300108: Chair part 3 17
+    2300110: Chair part 3 18
+    2300112: Chair part 3 19
+    2300114: Chair part 3 2
+    2300116: Chair part 3 20
+    2300118: Chair part 3 21
+    2300120: Chair part 3 22
+    2300122: Chair part 3 23
+    2300124: Chair part 3 3
+    2300126: Chair part 3 4
+    2300128: Chair part 3 5
+    2300130: Chair part 3 6
+    2300132: Chair part 3 7
+    2300134: Chair part 3 8
+    2300136: Chair part 3 9
+    2300138: chair part 4
+    2300140: chair part 4 1
+    2300142: chair part 4 1 1
+    2300144: chair part 4 10
+    2300146: chair part 4 11
+    2300148: chair part 4 12
+    2300150: chair part 4 13
+    2300152: chair part 4 14
+    2300154: chair part 4 15
+    2300156: chair part 4 16
+    2300158: chair part 4 17
+    2300160: chair part 4 18
+    2300162: chair part 4 19
+    2300164: chair part 4 2
+    2300166: chair part 4 20
+    2300168: chair part 4 21
+    2300170: chair part 4 22
+    2300172: chair part 4 23
+    2300174: chair part 4 24
+    2300176: chair part 4 25
+    2300178: chair part 4 26
+    2300180: chair part 4 27
+    2300182: chair part 4 28
+    2300184: chair part 4 29
+    2300186: chair part 4 3
+    2300188: chair part 4 30
+    2300190: chair part 4 31
+    2300192: chair part 4 32
+    2300194: chair part 4 33
+    2300196: chair part 4 34
+    2300198: chair part 4 35
+    2300200: chair part 4 36
+    2300202: chair part 4 37
+    2300204: chair part 4 38
+    2300206: chair part 4 39
+    2300208: chair part 4 4
+    2300210: chair part 4 40
+    2300212: chair part 4 41
+    2300214: chair part 4 42
+    2300216: chair part 4 43
+    2300218: chair part 4 44
+    2300220: chair part 4 45
+    2300222: chair part 4 46
+    2300224: chair part 4 47
+    2300226: chair part 4 5
+    2300228: chair part 4 6
+    2300230: chair part 4 7
+    2300232: chair part 4 8
+    2300234: chair part 4 9
+    2300236: chair part 5
+    2300238: chair part 6
+    2300240: chair part 7
+    2300242: chair part 8
+    2300244: chair part 9
+    2300246: Component#1
+    2300248: Component#1 1
+    2300250: Component#1 10
+    2300252: Component#1 11
+    2300254: Component#1 2
+    2300256: Component#1 3
+    2300258: Component#1 4
+    2300260: Component#1 5
+    2300262: Component#1 6
+    2300264: Component#1 7
+    2300266: Component#1 8
+    2300268: Component#1 9
+    2300270: Component#10
+    2300272: Component#10 1
+    2300274: Component#13
+    2300276: Component#13 1
+    2300278: Component#13 2
+    2300280: Component#13 3
+    2300282: Component#13 4
+    2300284: Component#13 5
+    2300286: Component#13 6
+    2300288: Component#13 7
+    2300290: Component#14
+    2300292: Component#14 1
+    2300294: Component#14 2
+    2300296: Component#14 3
+    2300298: Component#18
+    2300300: Component#18 1
+    2300302: Component#18 2
+    2300304: Component#2
+    2300306: Component#2 1
+    2300308: Component#2 10
+    2300310: Component#2 11
+    2300312: Component#2 12
+    2300314: Component#2 13
+    2300316: Component#2 14
+    2300318: Component#2 15
+    2300320: Component#2 16
+    2300322: Component#2 17
+    2300324: Component#2 18
+    2300326: Component#2 19
+    2300328: Component#2 2
+    2300330: Component#2 3
+    2300332: Component#2 4
+    2300334: Component#2 5
+    2300336: Component#2 6
+    2300338: Component#2 7
+    2300340: Component#2 8
+    2300342: Component#2 9
+    2300344: Component#3
+    2300346: Component#3 1
+    2300348: Component#5
+    2300350: Component#5 1
+    2300352: Component#6
+    2300354: Component#6 1
+    2300356: Component#6 2
+    2300358: Component#6 3
+    2300360: Component#6 4
+    2300362: Component#6 5
+    2300364: Component#6 6
+    2300366: Component#6 7
+    2300368: Component#9
+    2300370: Component#9 1
+    2300372: Component#9 2
+    2300374: Component#9 3
+    2300376: FCHS Flucos
+    2300378: Group 1010
+    2300380: Group 1027
+    2300382: Group 1044
+    2300384: Group 1061
+    2300386: Group 1078
+    2300388: Group 1095
+    2300390: Group 1122
+    2300392: Group 1124
+    2300394: Group 1126
+    2300396: Group 1128
+    2300398: Group 1130
+    2300400: Group 1132
+    2300402: Group 1134
+    2300404: Group 1136
+    2300406: Group 14
+    2300408: Group 16
+    2300410: Group 18
+    2300412: Group 20
+    2300414: Group 201
+    2300416: Group 203
+    2300418: Group 209
+    2300420: Group 211
+    2300422: Group 213
+    2300424: Group 215
+    2300426: Group 217
+    2300428: Group 219
+    2300430: Group 22
+    2300432: Group 221
+    2300434: Group 223
+    2300436: Group 225
+    2300438: Group 252
+    2300440: Group 255
+    2300442: Group 257
+    2300444: Group 260
+    2300446: Group 262
+    2300448: Group 267
+    2300450: Group 269
+    2300452: Group 274
+    2300454: Group 276
+    2300456: Group 281
+    2300458: Group 295
+    2300460: Group 297
+    2300462: Group 304
+    2300464: Group 306
+    2300466: Group 308
+    2300468: Group 327
+    2300470: Group 329
+    2300472: Group 338
+    2300474: Group 340
+    2300476: Group 342
+    2300478: Group 349
+    2300480: Group 351
+    2300482: Group 359
+    2300484: Group 361
+    2300486: Group 363
+    2300488: Group 365
+    2300490: Group 367
+    2300492: Group 4
+    2300494: Group 546
+    2300496: Group 548
+    2300498: Group 554
+    2300500: Group 556
+    2300502: Group 558
+    2300504: Group 560
+    2300506: Group 562
+    2300508: Group 564
+    2300510: Group 566
+    2300512: Group 568
+    2300514: Group 570
+    2300516: Group 597
+    2300518: Group 6
+    2300520: Group 600
+    2300522: Group 602
+    2300524: Group 605
+    2300526: Group 607
+    2300528: Group 612
+    2300530: Group 614
+    2300532: Group 619
+    2300534: Group 621
+    2300536: Group 626
+    2300538: Group 640
+    2300540: Group 642
+    2300542: Group 649
+    2300544: Group 651
+    2300546: Group 653
+    2300548: Group 672
+    2300550: Group 674
+    2300552: Group 683
+    2300554: Group 685
+    2300556: Group 687
+    2300558: Group 704
+    2300560: Group 721
+    2300562: Group 738
+    2300564: Group 755
+    2300566: Group 772
+    2300568: Group 789
+    2300570: Group 806
+    2300572: Group 823
+    2300574: Group 840
+    2300576: Group 857
+    2300578: Group 874
+    2300580: Group 891
+    2300582: Group 908
+    2300584: Group 925
+    2300586: Group 942
+    2300588: Group 959
+    2300590: Group 976
+    2300592: Group 993
+    2300594: Group#10
+    2300596: Group#10 1
+    2300598: Group#10 2
+    2300600: Group#10 3
+    2300602: Group#10 4
+    2300604: Group#10 5
+    2300606: Group#10 6
+    2300608: Group#10 7
+    2300610: Group#39
+    2300612: Group#39 1
+    2300614: Group#53
+    2300616: Group#57
+    2300618: Group#57 1
+    2300620: Group#58
+    2300622: Group#58 1
+    2300624: Group#58 10
+    2300626: Group#58 11
+    2300628: Group#58 12
+    2300630: Group#58 13
+    2300632: Group#58 14
+    2300634: Group#58 15
+    2300636: Group#58 16
+    2300638: Group#58 17
+    2300640: Group#58 18
+    2300642: Group#58 19
+    2300644: Group#58 2
+    2300646: Group#58 20
+    2300648: Group#58 21
+    2300650: Group#58 22
+    2300652: Group#58 23
+    2300654: Group#58 24
+    2300656: Group#58 25
+    2300658: Group#58 26
+    2300660: Group#58 27
+    2300662: Group#58 28
+    2300664: Group#58 29
+    2300666: Group#58 3
+    2300668: Group#58 30
+    2300670: Group#58 31
+    2300672: Group#58 32
+    2300674: Group#58 33
+    2300676: Group#58 34
+    2300678: Group#58 35
+    2300680: Group#58 36
+    2300682: Group#58 37
+    2300684: Group#58 38
+    2300686: Group#58 39
+    2300688: Group#58 4
+    2300690: Group#58 40
+    2300692: Group#58 41
+    2300694: Group#58 42
+    2300696: Group#58 43
+    2300698: Group#58 44
+    2300700: Group#58 45
+    2300702: Group#58 46
+    2300704: Group#58 47
+    2300706: Group#58 5
+    2300708: Group#58 6
+    2300710: Group#58 7
+    2300712: Group#58 8
+    2300714: Group#58 9
+    2300716: //RootNode
+    2300718: seat
+    2300720: seat 1
+    2300722: seat 10
+    2300724: seat 11
+    2300726: seat 12
+    2300728: seat 13
+    2300730: seat 14
+    2300732: seat 15
+    2300734: seat 16
+    2300736: seat 17
+    2300738: seat 18
+    2300740: seat 19
+    2300742: seat 2
+    2300744: seat 20
+    2300746: seat 21
+    2300748: seat 22
+    2300750: seat 23
+    2300752: seat 3
+    2300754: seat 4
+    2300756: seat 5
+    2300758: seat 6
+    2300760: seat 7
+    2300762: seat 8
+    2300764: seat 9
+    2300766: Studio Camera
+    2300768: tv_camera
+    2300770: Unfolded
+    2300772: Unfolded 1
+    3300000: Basket Ring
+    3300002: Basket Ring 1
+    3300004: Basket Ring 10
+    3300006: Basket Ring 11
+    3300008: Basket Ring 12
+    3300010: Basket Ring 13
+    3300012: Basket Ring 14
+    3300014: Basket Ring 15
+    3300016: Basket Ring 16
+    3300018: Basket Ring 17
+    3300020: Basket Ring 18
+    3300022: Basket Ring 19
+    3300024: Basket Ring 2
+    3300026: Basket Ring 20
+    3300028: Basket Ring 21
+    3300030: Basket Ring 22
+    3300032: Basket Ring 23
+    3300034: Basket Ring 3
+    3300036: Basket Ring 4
+    3300038: Basket Ring 5
+    3300040: Basket Ring 6
+    3300042: Basket Ring 7
+    3300044: Basket Ring 8
+    3300046: Basket Ring 9
+    3300048: Basketball
+    3300050: Bleachers
+    3300052: Bleachers 1
+    3300054: chair part
+    3300056: chair part 1
+    3300058: chair part 10
+    3300060: chair part 11
+    3300062: chair part 12
+    3300064: chair part 13
+    3300066: chair part 14
+    3300068: chair part 15
+    3300070: chair part 16
+    3300072: chair part 17
+    3300074: chair part 18
+    3300076: chair part 19
+    3300078: chair part 2
+    3300080: chair part 20
+    3300082: chair part 21
+    3300084: chair part 22
+    3300086: chair part 23
+    3300088: Chair part 3
+    3300090: chair part 3
+    3300092: Chair part 3 1
+    3300094: Chair part 3 10
+    3300096: Chair part 3 11
+    3300098: Chair part 3 12
+    3300100: Chair part 3 13
+    3300102: Chair part 3 14
+    3300104: Chair part 3 15
+    3300106: Chair part 3 16
+    3300108: Chair part 3 17
+    3300110: Chair part 3 18
+    3300112: Chair part 3 19
+    3300114: Chair part 3 2
+    3300116: Chair part 3 20
+    3300118: Chair part 3 21
+    3300120: Chair part 3 22
+    3300122: Chair part 3 23
+    3300124: Chair part 3 3
+    3300126: Chair part 3 4
+    3300128: Chair part 3 5
+    3300130: Chair part 3 6
+    3300132: Chair part 3 7
+    3300134: Chair part 3 8
+    3300136: Chair part 3 9
+    3300138: chair part 4
+    3300140: chair part 4 1
+    3300142: chair part 4 1 1
+    3300144: chair part 4 10
+    3300146: chair part 4 11
+    3300148: chair part 4 12
+    3300150: chair part 4 13
+    3300152: chair part 4 14
+    3300154: chair part 4 15
+    3300156: chair part 4 16
+    3300158: chair part 4 17
+    3300160: chair part 4 18
+    3300162: chair part 4 19
+    3300164: chair part 4 2
+    3300166: chair part 4 20
+    3300168: chair part 4 21
+    3300170: chair part 4 22
+    3300172: chair part 4 23
+    3300174: chair part 4 24
+    3300176: chair part 4 25
+    3300178: chair part 4 26
+    3300180: chair part 4 27
+    3300182: chair part 4 28
+    3300184: chair part 4 29
+    3300186: chair part 4 3
+    3300188: chair part 4 30
+    3300190: chair part 4 31
+    3300192: chair part 4 32
+    3300194: chair part 4 33
+    3300196: chair part 4 34
+    3300198: chair part 4 35
+    3300200: chair part 4 36
+    3300202: chair part 4 37
+    3300204: chair part 4 38
+    3300206: chair part 4 39
+    3300208: chair part 4 4
+    3300210: chair part 4 40
+    3300212: chair part 4 41
+    3300214: chair part 4 42
+    3300216: chair part 4 43
+    3300218: chair part 4 44
+    3300220: chair part 4 45
+    3300222: chair part 4 46
+    3300224: chair part 4 47
+    3300226: chair part 4 5
+    3300228: chair part 4 6
+    3300230: chair part 4 7
+    3300232: chair part 4 8
+    3300234: chair part 4 9
+    3300236: chair part 5
+    3300238: chair part 6
+    3300240: chair part 7
+    3300242: chair part 8
+    3300244: chair part 9
+    3300246: Component#1
+    3300248: Component#1 1
+    3300250: Component#1 10
+    3300252: Component#1 11
+    3300254: Component#1 2
+    3300256: Component#1 3
+    3300258: Component#1 4
+    3300260: Component#1 5
+    3300262: Component#1 6
+    3300264: Component#1 7
+    3300266: Component#1 8
+    3300268: Component#1 9
+    3300270: Component#10
+    3300272: Component#10 1
+    3300274: Component#13
+    3300276: Component#13 1
+    3300278: Component#13 2
+    3300280: Component#13 3
+    3300282: Component#13 4
+    3300284: Component#13 5
+    3300286: Component#13 6
+    3300288: Component#13 7
+    3300290: Component#14
+    3300292: Component#14 1
+    3300294: Component#14 2
+    3300296: Component#14 3
+    3300298: Component#18
+    3300300: Component#18 1
+    3300302: Component#18 2
+    3300304: Component#2
+    3300306: Component#2 1
+    3300308: Component#2 10
+    3300310: Component#2 11
+    3300312: Component#2 12
+    3300314: Component#2 13
+    3300316: Component#2 14
+    3300318: Component#2 15
+    3300320: Component#2 16
+    3300322: Component#2 17
+    3300324: Component#2 18
+    3300326: Component#2 19
+    3300328: Component#2 2
+    3300330: Component#2 3
+    3300332: Component#2 4
+    3300334: Component#2 5
+    3300336: Component#2 6
+    3300338: Component#2 7
+    3300340: Component#2 8
+    3300342: Component#2 9
+    3300344: Component#3
+    3300346: Component#3 1
+    3300348: Component#5
+    3300350: Component#5 1
+    3300352: Component#6
+    3300354: Component#6 1
+    3300356: Component#6 2
+    3300358: Component#6 3
+    3300360: Component#6 4
+    3300362: Component#6 5
+    3300364: Component#6 6
+    3300366: Component#6 7
+    3300368: Component#9
+    3300370: Component#9 1
+    3300372: Component#9 2
+    3300374: Component#9 3
+    3300376: FCHS Flucos
+    3300378: Group 1010
+    3300380: Group 1027
+    3300382: Group 1044
+    3300384: Group 1061
+    3300386: Group 1078
+    3300388: Group 1095
+    3300390: Group 1122
+    3300392: Group 1124
+    3300394: Group 1126
+    3300396: Group 1128
+    3300398: Group 1130
+    3300400: Group 1132
+    3300402: Group 1134
+    3300404: Group 1136
+    3300406: Group 14
+    3300408: Group 16
+    3300410: Group 18
+    3300412: Group 20
+    3300414: Group 201
+    3300416: Group 203
+    3300418: Group 209
+    3300420: Group 211
+    3300422: Group 213
+    3300424: Group 215
+    3300426: Group 217
+    3300428: Group 219
+    3300430: Group 22
+    3300432: Group 221
+    3300434: Group 223
+    3300436: Group 225
+    3300438: Group 252
+    3300440: Group 255
+    3300442: Group 257
+    3300444: Group 260
+    3300446: Group 262
+    3300448: Group 267
+    3300450: Group 269
+    3300452: Group 274
+    3300454: Group 276
+    3300456: Group 281
+    3300458: Group 295
+    3300460: Group 297
+    3300462: Group 304
+    3300464: Group 306
+    3300466: Group 308
+    3300468: Group 327
+    3300470: Group 329
+    3300472: Group 338
+    3300474: Group 340
+    3300476: Group 342
+    3300478: Group 349
+    3300480: Group 351
+    3300482: Group 359
+    3300484: Group 361
+    3300486: Group 363
+    3300488: Group 365
+    3300490: Group 367
+    3300492: Group 4
+    3300494: Group 546
+    3300496: Group 548
+    3300498: Group 554
+    3300500: Group 556
+    3300502: Group 558
+    3300504: Group 560
+    3300506: Group 562
+    3300508: Group 564
+    3300510: Group 566
+    3300512: Group 568
+    3300514: Group 570
+    3300516: Group 597
+    3300518: Group 6
+    3300520: Group 600
+    3300522: Group 602
+    3300524: Group 605
+    3300526: Group 607
+    3300528: Group 612
+    3300530: Group 614
+    3300532: Group 619
+    3300534: Group 621
+    3300536: Group 626
+    3300538: Group 640
+    3300540: Group 642
+    3300542: Group 649
+    3300544: Group 651
+    3300546: Group 653
+    3300548: Group 672
+    3300550: Group 674
+    3300552: Group 683
+    3300554: Group 685
+    3300556: Group 687
+    3300558: Group 704
+    3300560: Group 721
+    3300562: Group 738
+    3300564: Group 755
+    3300566: Group 772
+    3300568: Group 789
+    3300570: Group 806
+    3300572: Group 823
+    3300574: Group 840
+    3300576: Group 857
+    3300578: Group 874
+    3300580: Group 891
+    3300582: Group 908
+    3300584: Group 925
+    3300586: Group 942
+    3300588: Group 959
+    3300590: Group 976
+    3300592: Group 993
+    3300594: Group#10
+    3300596: Group#10 1
+    3300598: Group#10 2
+    3300600: Group#10 3
+    3300602: Group#10 4
+    3300604: Group#10 5
+    3300606: Group#10 6
+    3300608: Group#10 7
+    3300610: Group#39
+    3300612: Group#39 1
+    3300614: Group#53
+    3300616: Group#57
+    3300618: Group#57 1
+    3300620: Group#58
+    3300622: Group#58 1
+    3300624: Group#58 10
+    3300626: Group#58 11
+    3300628: Group#58 12
+    3300630: Group#58 13
+    3300632: Group#58 14
+    3300634: Group#58 15
+    3300636: Group#58 16
+    3300638: Group#58 17
+    3300640: Group#58 18
+    3300642: Group#58 19
+    3300644: Group#58 2
+    3300646: Group#58 20
+    3300648: Group#58 21
+    3300650: Group#58 22
+    3300652: Group#58 23
+    3300654: Group#58 24
+    3300656: Group#58 25
+    3300658: Group#58 26
+    3300660: Group#58 27
+    3300662: Group#58 28
+    3300664: Group#58 29
+    3300666: Group#58 3
+    3300668: Group#58 30
+    3300670: Group#58 31
+    3300672: Group#58 32
+    3300674: Group#58 33
+    3300676: Group#58 34
+    3300678: Group#58 35
+    3300680: Group#58 36
+    3300682: Group#58 37
+    3300684: Group#58 38
+    3300686: Group#58 39
+    3300688: Group#58 4
+    3300690: Group#58 40
+    3300692: Group#58 41
+    3300694: Group#58 42
+    3300696: Group#58 43
+    3300698: Group#58 44
+    3300700: Group#58 45
+    3300702: Group#58 46
+    3300704: Group#58 47
+    3300706: Group#58 5
+    3300708: Group#58 6
+    3300710: Group#58 7
+    3300712: Group#58 8
+    3300714: Group#58 9
+    3300716: //RootNode
+    3300718: seat
+    3300720: seat 1
+    3300722: seat 10
+    3300724: seat 11
+    3300726: seat 12
+    3300728: seat 13
+    3300730: seat 14
+    3300732: seat 15
+    3300734: seat 16
+    3300736: seat 17
+    3300738: seat 18
+    3300740: seat 19
+    3300742: seat 2
+    3300744: seat 20
+    3300746: seat 21
+    3300748: seat 22
+    3300750: seat 23
+    3300752: seat 3
+    3300754: seat 4
+    3300756: seat 5
+    3300758: seat 6
+    3300760: seat 7
+    3300762: seat 8
+    3300764: seat 9
+    3300766: Studio Camera
+    3300768: tv_camera
+    3300770: Unfolded
+    3300772: Unfolded 1
+    4300000: Mesh high+school+court
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group#10
+    4300008: Mesh Component#2
+    4300010: Mesh Component#3
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 18
+    4300018: Mesh Group 20
+    4300020: Mesh Group 22
+    4300022: Mesh Component#13
+    4300024: Mesh Component#9
+    4300026: Mesh Component#10
+    4300028: Mesh Unfolded
+    4300030: Mesh Group 201
+    4300032: Mesh Group 203
+    4300034: Mesh Group 209
+    4300036: Mesh Group 211
+    4300038: Mesh Group 213
+    4300040: Mesh Group 215
+    4300042: Mesh Group 217
+    4300044: Mesh Group 219
+    4300046: Mesh Group 221
+    4300048: Mesh Group 223
+    4300050: Mesh Group 225
+    4300052: Mesh Basket Ring
+    4300054: Mesh Basket Ring
+    4300056: Mesh Group 252
+    4300058: Mesh Group 255
+    4300060: Mesh Group 257
+    4300062: Mesh Group 260
+    4300064: Mesh Group 262
+    4300066: Mesh Component#14
+    4300068: Mesh Group 267
+    4300070: Mesh Group 269
+    4300072: Mesh Component#1
+    4300074: Mesh Group 281
+    4300076: Mesh Component#6
+    4300078: Mesh Component#5
+    4300080: Mesh Group 295
+    4300082: Mesh Group 297
+    4300084: Mesh Group 304
+    4300086: Mesh Group 306
+    4300088: Mesh Group 308
+    4300090: Mesh Group 327
+    4300092: Mesh Group 329
+    4300094: Mesh Group#39
+    4300096: Mesh Group 338
+    4300098: Mesh Group 340
+    4300100: Mesh Group 342
+    4300102: Mesh Group#53
+    4300104: Mesh Bleachers
+    4300106: Mesh Group#57
+    4300108: Mesh Group 704
+    4300110: Mesh seat
+    4300112: Mesh chair part 4
+    4300114: Mesh chair part
+    4300116: Mesh Chair part 3
+    4300118: Mesh Group#58
+    4300120: Mesh Group 959
+    4300122: Mesh seat
+    4300124: Mesh FCHS Flucos
+    4300126: Mesh Basketball
+    4300128: Mesh Studio Camera
+    4300130: Mesh Group 1122
+    4300132: Mesh Group 1124
+    4300134: Mesh Group 1126
+    4300136: Mesh Group 1128
+    4300138: Mesh Group 1130
+    4300140: Mesh Group 1132
+    4300142: Mesh Group 1134
+    4300144: Mesh Group 1136
+    4300146: Mesh tv_camera
+    4300148: Mesh Component#18
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
